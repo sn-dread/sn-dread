@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sn-dread
+- 👀 I’m interested in laser-engraving
+- 🌱 I’m currently learning Python
